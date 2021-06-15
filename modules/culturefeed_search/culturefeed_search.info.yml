@@ -6,4 +6,4 @@ package: 'CultureFeed'
 dependencies:
   - culturefeed_search_api
 'interface translation project': culturefeed_search
-'interface translation server pattern': modules/custom/culturefeed_search/translations/%language.po
+'interface translation server pattern': modules/contrib/culturefeed-d8/modules/%project/translations/%language.po
