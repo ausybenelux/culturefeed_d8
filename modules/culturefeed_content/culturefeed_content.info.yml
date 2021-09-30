@@ -6,4 +6,4 @@ core: '8.x'
 dependencies:
   - culturefeed_agenda
 'interface translation project': culturefeed_content
-'interface translation server pattern': modules/custom/culturefeed_content/translations/%language.po
+'interface translation server pattern': modules/contrib/culturefeed-d8/modules/%project/translations/%language.po
